@@ -26,6 +26,7 @@ async function main() {
   await lolToken.deposit(amount2);
 
   console.log(await lolToken.balanceOf(signer1.address));
+
   console.log(await lmaoToken.balanceOf(lolToken));
 
   const amount3 = ethers.parseEther("92");

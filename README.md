@@ -1,13 +1,5 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+LmaoToken contract : 0x0D3482DA85e91AAFDAe421C358DC7b3314F56934
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+LolToken contract : 0xceb74326afcbf68ace376e9135e30f3b9fb7f502
